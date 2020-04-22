@@ -44,8 +44,8 @@ return [
     ],
     'navigation' => [
         'default' => [
-            'test-settings' => [
-                'label' => 'Test Settings',
+            'settings' => [
+                'label' => 'Settings',
                 'route' => 'settings/default',
                 'class' => 'dropdown',
                 'pages' => [
