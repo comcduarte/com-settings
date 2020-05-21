@@ -47,6 +47,8 @@ return [
             'settings' => [
                 'label' => 'Settings',
                 'route' => 'settings/default',
+                'resource' => 'settings/default',
+                'privilege' => 'menu',
                 'class' => 'dropdown',
                 'pages' => [
                     [
