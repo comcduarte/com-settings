@@ -1,7 +1,7 @@
 <?php
 namespace Settings\Controller\Factory;
 
-use Interop\Container\ContainerInterface;
+use Psr\Container\ContainerInterface;
 use Laminas\ServiceManager\Factory\FactoryInterface;
 use Settings\Controller\SettingsController;
 use Settings\Form\SettingsForm;

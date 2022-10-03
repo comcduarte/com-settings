@@ -3,7 +3,7 @@ namespace Settings\Service\Factory;
 
 use Laminas\Db\Adapter\Adapter;
 use Laminas\ServiceManager\Factory\FactoryInterface;
-use Interop\Container\ContainerInterface;
+use Psr\Container\ContainerInterface;
 
 class SettingsModelAdapterFactory implements FactoryInterface
 {
